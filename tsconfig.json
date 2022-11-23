@@ -10,6 +10,7 @@
     "noUnusedParameters": true,
     "isolatedModules": true,
     "noImplicitAny": true,
+    "noEmit": true,
     "resolveJsonModule": true,
     "jsx": "preserve",
     "importHelpers": true,

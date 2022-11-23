@@ -1,8 +1,8 @@
 <template>
   <div>
-    <h1>Vue app</h1>
-    <h2>Count: {{ count }}</h2>
-    <button @click="increment">Increment</button>
+    <h1>{{ $t('main.title') }}</h1>
+    <h2>{{ $t('main.counter.desc', count) }}</h2>
+    <button @click="increment">{{  $t('main.button') }}</button>
   </div>
 </template>
 

@@ -1,0 +1,9 @@
+{
+  "main": {
+    "title": "Vite + vue",
+    "button": "increment",
+    "counter": {
+      "desc": "count is {count}"
+    }
+  }
+}

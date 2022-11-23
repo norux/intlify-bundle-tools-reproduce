@@ -1,0 +1,1 @@
+{"version":3,"file":"index.754a3b22.js","sources":["../../src/locales/en.json"],"sourcesContent":["{\n  \"main\": {\n    \"title\": \"Vite + vue\",\n    \"button\": \"increment\",\n    \"counter\": {\n      \"desc\": \"count is {count}\"\n    }\n  }\n}\n"],"names":["Vite + vue","increment","count is "],"mappings":"i1BAEYA,0DACCC,sFAEAC"}
